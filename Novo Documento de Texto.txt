@@ -1,3 +1,5 @@
 Aula 1 - Versão 1
 
-arquivo editado pelo bithub
+arquivo editado pelo github
+
+arquivo editado pelo pc
